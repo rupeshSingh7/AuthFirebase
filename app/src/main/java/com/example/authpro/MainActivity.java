@@ -137,7 +137,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                // Crashlytics.getInstance().crash(); for crashlytics crash manuly
-               Boolean verifyCrash = mAuth.getCurrentUser().isEmailVerified();
+              
             }
         });
 
