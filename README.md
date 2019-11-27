@@ -11,6 +11,6 @@ Syn Project if it's need download lib, or you can change it as your existent lib
 Connect to your Firebase Project if it you allready created in firebase
 delete google-services.json file and add your own google-services.json()
 
-# step 5
+#step 5
 Done
 
